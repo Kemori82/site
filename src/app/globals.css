@@ -22,7 +22,7 @@ body {
   text-align: center;
 }
 
-/* A container to wrap your app’s main content for a card-like look */
+/* A container to wrap the app’s main content for a card-like look */
 #__next {
   background: rgba(255 255 255 / 0.1);
   padding: 2rem;

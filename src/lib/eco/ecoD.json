@@ -1,0 +1,509 @@
+{
+  "openings": [
+    {
+      "eco": "D00",
+      "name": "Queen's Pawn Game",
+      "moves": "1. d4 d5"
+    },
+    {
+      "eco": "D00",
+      "name": "Blackmar-Diemer Gambit",
+      "moves": "1. d4 d5 2. e4"
+    },
+    {
+      "eco": "D01",
+      "name": "Richter-Veresov Attack",
+      "moves": "1. d4 d5 2. Nc3 Nf6 3. Bg5"
+    },
+    {
+      "eco": "D02",
+      "name": "Queen's Pawn Game London System",
+      "moves": "1. d4 d5 2. Nf3 Nf6 3. Bf4"
+    },
+    {
+      "eco": "D03",
+      "name": "Torre Attack",
+      "moves": "1. d4 d5 2. Nf3 Nf6 3. Bg5"
+    },
+    {
+      "eco": "D04",
+      "name": "Queen's Pawn Game Colle System",
+      "moves": "1. d4 d5 2. Nf3 Nf6 3. e3"
+    },
+    {
+      "eco": "D05",
+      "name": "Colle System Zukertort Variation",
+      "moves": "1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 c5 5. b3"
+    },
+    {
+      "eco": "D06",
+      "name": "Queen's Gambit",
+      "moves": "1. d4 d5 2. c4"
+    },
+    {
+      "eco": "D07",
+      "name": "Queen's Gambit Chigorin Defense",
+      "moves": "1. d4 d5 2. c4 Nc6"
+    },
+    {
+      "eco": "D08",
+      "name": "Queen's Gambit Declined Albin Countergambit",
+      "moves": "1. d4 d5 2. c4 e5"
+    },
+    {
+      "eco": "D09",
+      "name": "Queen's Gambit Declined Albin Countergambit Main Line",
+      "moves": "1. d4 d5 2. c4 e5 3. dxe5 d4"
+    },
+    {
+      "eco": "D10",
+      "name": "Slav Defense",
+      "moves": "1. d4 d5 2. c4 c6"
+    },
+    {
+      "eco": "D11",
+      "name": "Slav Defense Quiet Variation",
+      "moves": "1. d4 d5 2. c4 c6 3. Nf3"
+    },
+    {
+      "eco": "D12",
+      "name": "Slav Defense Quiet Variation",
+      "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5"
+    },
+    {
+      "eco": "D13",
+      "name": "Slav Defense Exchange Variation",
+      "moves": "1. d4 d5 2. c4 c6 3. cxd5 cxd5"
+    },
+    {
+      "eco": "D14",
+      "name": "Slav Defense Exchange, Symmetrical Line",
+      "moves": "1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6"
+    },
+    {
+      "eco": "D15",
+      "name": "Slav Defense Main Line",
+      "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3"
+    },
+    {
+      "eco": "D16",
+      "name": "Slav Defense Alapin Variation",
+      "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4"
+    },
+    {
+      "eco": "D17",
+      "name": "Slav Defense Czech Variation",
+      "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5"
+    },
+    {
+      "eco": "D18",
+      "name": "Slav Defense Dutch Variation",
+      "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3"
+    },
+    {
+      "eco": "D19",
+      "name": "Slav Defense Dutch, Main Line",
+      "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6"
+    },
+    {
+      "eco": "D20",
+      "name": "Queen's Gambit Accepted",
+      "moves": "1. d4 d5 2. c4 dxc4"
+    },
+    {
+      "eco": "D21",
+      "name": "Queen's Gambit Accepted Main Line",
+      "moves": "1. d4 d5 2. c4 dxc4 3. e3"
+    },
+    {
+      "eco": "D22",
+      "name": "Queen's Gambit Accepted Alekhine Defense",
+      "moves": "1. d4 d5 2. c4 dxc4 3. e3 a6"
+    },
+    {
+      "eco": "D23",
+      "name": "Queen's Gambit Accepted Mannheim Variation",
+      "moves": "1. d4 d5 2. c4 dxc4 3. Nf3"
+    },
+    {
+      "eco": "D24",
+      "name": "Queen's Gambit Accepted Main Line",
+      "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3"
+    },
+    {
+      "eco": "D25",
+      "name": "Queen's Gambit Accepted Smyslov Variation",
+      "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 g6"
+    },
+    {
+      "eco": "D26",
+      "name": "Queen's Gambit Accepted Classical",
+      "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6"
+    },
+    {
+      "eco": "D27",
+      "name": "Queen's Gambit Accepted Classical, Main Line",
+      "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5"
+    },
+    {
+      "eco": "D28",
+      "name": "Queen's Gambit Accepted Classical, Alekhine System",
+      "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6"
+    },
+    {
+      "eco": "D29",
+      "name": "Queen's Gambit Accepted Classical, Main Line",
+      "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2"
+    },
+    {
+      "eco": "D30",
+      "name": "Queen's Gambit Declined",
+      "moves": "1. d4 d5 2. c4 e6"
+    },
+    {
+      "eco": "D31",
+      "name": "Queen's Gambit Declined Semi-Slav",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 c6"
+    },
+    {
+      "eco": "D32",
+      "name": "Queen's Gambit Declined Tarrasch Defense",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 c5"
+    },
+    {
+      "eco": "D33",
+      "name": "Tarrasch Defense Main Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5"
+    },
+    {
+      "eco": "D34",
+      "name": "Tarrasch Defense Main Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6"
+    },
+    {
+      "eco": "D35",
+      "name": "Queen's Gambit Declined Exchange Variation",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5"
+    },
+    {
+      "eco": "D36",
+      "name": "Queen's Gambit Declined Exchange, Positional Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5"
+    },
+    {
+      "eco": "D37",
+      "name": "Queen's Gambit Declined Main Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7"
+    },
+    {
+      "eco": "D38",
+      "name": "Queen's Gambit Declined Ragozin Variation",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Bb4"
+    },
+    {
+      "eco": "D39",
+      "name": "Queen's Gambit Declined Ragozin, Vienna Variation",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Bb4 5. Bg5 dxc4"
+    },
+    {
+      "eco": "D40",
+      "name": "Queen's Gambit Declined Semi-Tarrasch",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5"
+    },
+    {
+      "eco": "D41",
+      "name": "Queen's Gambit Declined Semi-Tarrasch Main Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. cxd5"
+    },
+    {
+      "eco": "D42",
+      "name": "Queen's Gambit Declined Semi-Tarrasch, Main Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. cxd5 Nxd5"
+    },
+    {
+      "eco": "D43",
+      "name": "Queen's Gambit Declined Semi-Slav",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6"
+    },
+    {
+      "eco": "D44",
+      "name": "Semi-Slav Defense Botvinnik System",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. Bg5 dxc4"
+    },
+    {
+      "eco": "D45",
+      "name": "Semi-Slav Defense Main Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3"
+    },
+    {
+      "eco": "D46",
+      "name": "Semi-Slav Defense Main Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7"
+    },
+    {
+      "eco": "D47",
+      "name": "Semi-Slav Defense Meran Variation",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4"
+    },
+    {
+      "eco": "D48",
+      "name": "Semi-Slav Defense Meran, Main Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5"
+    },
+    {
+      "eco": "D49",
+      "name": "Semi-Slav Defense Meran, Blumenfeld Variation",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6"
+    },
+    {
+      "eco": "D50",
+      "name": "Queen's Gambit Declined",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5"
+    },
+    {
+      "eco": "D51",
+      "name": "Queen's Gambit Declined Cambridge Springs Defense",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7"
+    },
+    {
+      "eco": "D52",
+      "name": "Queen's Gambit Declined Cambridge Springs, Main Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6"
+    },
+    {
+      "eco": "D53",
+      "name": "Queen's Gambit Declined Main Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7"
+    },
+    {
+      "eco": "D54",
+      "name": "Queen's Gambit Declined Anti-Neo-Orthodox Variation",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Rc1"
+    },
+    {
+      "eco": "D55",
+      "name": "Queen's Gambit Declined Pillsbury Attack",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3"
+    },
+    {
+      "eco": "D56",
+      "name": "Queen's Gambit Declined Lasker Defense",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6"
+    },
+    {
+      "eco": "D57",
+      "name": "Queen's Gambit Declined Lasker Defense Main Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 Ne4"
+    },
+    {
+      "eco": "D58",
+      "name": "Queen's Gambit Declined Tartakower Variation",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6"
+    },
+    {
+      "eco": "D59",
+      "name": "Queen's Gambit Declined Tartakower, Main Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5 Nxd5"
+    },
+    {
+      "eco": "D60",
+      "name": "Queen's Gambit Declined Orthodox Defense",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7"
+    },
+    {
+      "eco": "D61",
+      "name": "Queen's Gambit Declined Orthodox, Rubinstein Attack",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2"
+    },
+    {
+      "eco": "D62",
+      "name": "Queen's Gambit Declined Orthodox, Main Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2 c5"
+    },
+    {
+      "eco": "D63",
+      "name": "Queen's Gambit Declined Orthodox, Main Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1"
+    },
+    {
+      "eco": "D64",
+      "name": "Queen's Gambit Declined Orthodox, Rubinstein Attack",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 c6"
+    },
+    {
+      "eco": "D65",
+      "name": "Queen's Gambit Declined Orthodox, Rubinstein Attack",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 c6 8. Qc2"
+    },
+    {
+      "eco": "D66",
+      "name": "Queen's Gambit Declined Orthodox, Bd3 Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Bd3"
+    },
+    {
+      "eco": "D67",
+      "name": "Queen's Gambit Declined Orthodox, Bd3 Line, Capablanca Freeing Maneuver",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Bd3 c5"
+    },
+    {
+      "eco": "D68",
+      "name": "Queen's Gambit Declined Orthodox, Classical",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Bd3 dxc4 8. Bxc4"
+    },
+    {
+      "eco": "D69",
+      "name": "Queen's Gambit Declined Orthodox, Classical, Main Line",
+      "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Bd3 dxc4 8. Bxc4 c5 9. O-O"
+    },
+    {
+      "eco": "D70",
+      "name": "Neo-Grünfeld Defense",
+      "moves": "1. d4 Nf6 2. c4 g6 3. f3 d5"
+    },
+    {
+      "eco": "D71",
+      "name": "Neo-Grünfeld Defense",
+      "moves": "1. d4 Nf6 2. c4 g6 3. g3 d5"
+    },
+    {
+      "eco": "D72",
+      "name": "Neo-Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5"
+    },
+    {
+      "eco": "D73",
+      "name": "Neo-Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. Nf3"
+    },
+    {
+      "eco": "D74",
+      "name": "Neo-Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. Nf3 O-O"
+    },
+    {
+      "eco": "D75",
+      "name": "Neo-Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. Nf3 O-O 6. O-O"
+    },
+    {
+      "eco": "D76",
+      "name": "Neo-Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. Nf3 O-O 6. O-O dxc4"
+    },
+    {
+      "eco": "D77",
+      "name": "Neo-Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d5"
+    },
+    {
+      "eco": "D78",
+      "name": "Neo-Grünfeld Defense Fianchetto Variation",
+      "moves": "1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 c6"
+    },
+    {
+      "eco": "D79",
+      "name": "Neo-Grünfeld Defense Fianchetto, Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 c6 6. O-O"
+    },
+    {
+      "eco": "D80",
+      "name": "Grünfeld Defense",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5"
+    },
+    {
+      "eco": "D81",
+      "name": "Grünfeld Defense Russian Variation",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Qb3"
+    },
+    {
+      "eco": "D82",
+      "name": "Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4"
+    },
+    {
+      "eco": "D83",
+      "name": "Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7"
+    },
+    {
+      "eco": "D84",
+      "name": "Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3"
+    },
+    {
+      "eco": "D85",
+      "name": "Grünfeld Defense Exchange Variation",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5"
+    },
+    {
+      "eco": "D86",
+      "name": "Grünfeld Defense Exchange, Classical Variation",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7"
+    },
+    {
+      "eco": "D87",
+      "name": "Grünfeld Defense Exchange, Spassky Variation",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4"
+    },
+    {
+      "eco": "D88",
+      "name": "Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O"
+    },
+    {
+      "eco": "D89",
+      "name": "Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8. Ne2"
+    },
+    {
+      "eco": "D90",
+      "name": "Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3"
+    },
+    {
+      "eco": "D91",
+      "name": "Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7"
+    },
+    {
+      "eco": "D92",
+      "name": "Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4"
+    },
+    {
+      "eco": "D93",
+      "name": "Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O"
+    },
+    {
+      "eco": "D94",
+      "name": "Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3"
+    },
+    {
+      "eco": "D95",
+      "name": "Grünfeld Defense Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O"
+    },
+    {
+      "eco": "D96",
+      "name": "Grünfeld Defense Russian System",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3"
+    },
+    {
+      "eco": "D97",
+      "name": "Grünfeld Defense Russian, Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4"
+    },
+    {
+      "eco": "D98",
+      "name": "Grünfeld Defense Russian, Smyslov Variation",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. Bf4"
+    },
+    {
+      "eco": "D99",
+      "name": "Grünfeld Defense Russian, Main Line",
+      "moves": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4"
+    }
+  ]
+}
