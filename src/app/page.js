@@ -257,11 +257,15 @@ export default function Home() {
                 animationDelay: '0.1s',
               }}
               className="sidebar-link-animate"
-              onClick={() => setIsMenuOpen(false)}
+              prefetch={false}
+              scroll={true}
+              onClick={e => {
+                setIsMenuOpen(false);
+              }}
             >
               Stats Viewer
             </Link>
-             <Link
+            <Link
               href="/linktree"
               style={{
                 ...styles.sidebarLink,
@@ -269,7 +273,11 @@ export default function Home() {
                 animationDelay: '0.1s',
               }}
               className="sidebar-link-animate"
-              onClick={() => setIsMenuOpen(false)}
+              prefetch={false}
+              scroll={true}
+              onClick={e => {
+                setIsMenuOpen(false);
+              }}
             >
               Website Index
             </Link>
@@ -281,7 +289,11 @@ export default function Home() {
                 animationDelay: '0.1s',
               }}
               className="sidebar-link-animate"
-              onClick={() => setIsMenuOpen(false)}
+              prefetch={false}
+              scroll={true}
+              onClick={e => {
+                setIsMenuOpen(false);
+              }}
             >
               Kemori Demonlist
             </Link>
@@ -322,8 +334,8 @@ export default function Home() {
         }}
       >
         <Image
-          src="/star.png"
-          alt="Draggable star"
+          src="/laconic.png"
+          alt="Draggable laconic"
           width={100}
           height={100}
           style={{
