@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Stats Viewer",
-  description: "Analyze your Chess",
+  title: "Laconic",
+  description: "Made by k3mori",
 };
 
 export default function RootLayout({ children }) {
