@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useEffect } from 'react';
+import Link from 'next/link';
 
 const linkFolders = [
 	{
@@ -345,7 +346,7 @@ export default function LinktreeVSCode() {
 			{/* Tabs Bar */}
 			<div style={styles.tabBar}>
 				{/* Add a tab for Homepage before Website Index */}
-				<a
+				<Link
 					href="/"
 					style={{
 						...styles.tabActive,
@@ -363,7 +364,7 @@ export default function LinktreeVSCode() {
 					}}
 				>
 					Home
-				</a>
+				</Link>
 				<div style={styles.tabActive}>Website Index</div>
 			</div>
 			{/* Main content: sidebar (folder buttons) + fake editor */}
@@ -385,7 +386,7 @@ export default function LinktreeVSCode() {
 				{/* Fake editor preview */}
 				<div style={styles.editorPreview}>
 					<pre style={styles.code}>
-						<span style={{ color: '#6A9955' }}>// Click a folder to open a window</span>
+						<span style={{ color: '#6A9955' }}>{'// Click a folder to open a window'}</span>
 						{'\n'}
 						{linkFolders
 							.slice()
@@ -393,7 +394,7 @@ export default function LinktreeVSCode() {
 							.map(folder => (
 								<React.Fragment key={folder.name}>
 									<span style={{ color: '#b5cea8' }}>
-										// {folder.name}
+										{`// ${folder.name}`}
 									</span>
 									{'\n'}
 									{folder.links

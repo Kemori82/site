@@ -157,7 +157,7 @@ const MacWindow = () => {
           {iconButton(isFullscreen ? '/resize-in.svg' : '/resize-out.svg', toggleFullscreen, 'Toggle Fullscreen')}
         </div>
         <div style={{ fontSize: '0.9rem', fontWeight: 500, color: '#ccc', userSelect: 'none' }}>
-          
+          {/* You can put a window title here if desired */}
         </div>
       </div>
 
@@ -172,6 +172,7 @@ const MacWindow = () => {
           alignItems: 'center',
           userSelect: 'none',
         }}>
+          {/* Replace this with your custom window content */}
           <p style={{ fontSize: '1rem', color: '#ccc', userSelect: 'none' }}>
             Placeholder
           </p>

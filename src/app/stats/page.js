@@ -1,6 +1,8 @@
 'use client';
 
 import React, { useState, useEffect } from "react";
+import Link from 'next/link';
+import Image from 'next/image';
 import axios from "axios";
 import {
   Chart as ChartJS,
@@ -43,7 +45,7 @@ export default function Home() {
 
   useEffect(() => {
     if (error) setError(null);
-  }, [username]);
+  }, [username, error]);
 
   // Set body styles for VSCode theme
   useEffect(() => {
@@ -266,7 +268,7 @@ export default function Home() {
     <div style={styles.vscodeShell}>
       {/* Tab Bar */}
       <div style={styles.tabBar}>
-        <a
+        <Link
           href="/"
           style={{
             ...styles.tab,
@@ -282,7 +284,7 @@ export default function Home() {
           }}
         >
           Home
-        </a>
+        </Link>
         <div style={styles.tabActive}>Stats Viewer</div>
       </div>
       {/* Main Area */}
@@ -332,7 +334,7 @@ export default function Home() {
                 <h2 style={styles.sectionTitle}>Profile</h2>
                 <div style={styles.profileBar}>
                   {profile.avatar && (
-                    <img src={profile.avatar} alt="Avatar" style={styles.avatar} />
+                    <Image src={profile.avatar} alt="Avatar" style={styles.avatar} width={48} height={48} />
                   )}
                   <div style={styles.profileInfo}>
                     <h3 style={{ margin: 0, color: '#d4d4d4' }}>{profile.username}</h3>

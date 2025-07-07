@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useEffect, useRef, useState } from 'react';
 import { usePathname } from 'next/navigation';
 import SpaceWindow from '../components/SpaceWindow';
+import Image from 'next/image';
 
 export default function Home() {
   const canvasRef = useRef(null);
@@ -320,9 +321,11 @@ export default function Home() {
           if ((e.key === 'Enter' || e.key === ' ') && isMoonInBottomRight()) toggleMenu();
         }}
       >
-        <img
-          src="star.png"
+        <Image
+          src="/star.png"
           alt="Draggable star"
+          width={100}
+          height={100}
           style={{
             width: '100%',
             height: '100%',
